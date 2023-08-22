@@ -1,3 +1,0 @@
-Name:Ashish Yadav
-Skills:HTML,CSS,JS, Next.js
-Email:ashyadav108@gmail.com
